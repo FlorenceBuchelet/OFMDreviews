@@ -1,0 +1,28 @@
+:root {
+    --dark-color: rgb(0, 0, 84);
+    background-color: var(--dark-color);
+}
+
+#root {
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+nav {
+    perspective: 70px;
+    position: fixed;
+    right: 5%;
+    max-width: 1000px;
+}
+
+.CardsZone {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {
+    width: 60%;
+    margin: 2rem 0rem;
+    opacity: 0.9;
+}
