@@ -1,5 +1,4 @@
 import "./App.scss";
-import styled from "styled-components";
 import CardsZone from "./components/CardsZone/CardsZone";
 import Menu from "./components/Menu/Menu";
 
