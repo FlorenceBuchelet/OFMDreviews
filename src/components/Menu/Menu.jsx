@@ -11,6 +11,9 @@ const Menu = () => {
             <li>Episode 3</li>
             <li>Episode 4</li>
             <li>Episode 5</li>
+            <li>Episode 6</li>
+            <li>Episode 7</li>
+            <li>Episode 8</li>
         </ul>
         </>
      );

@@ -3,7 +3,8 @@
 Using HBO Max's series **Our Flag Means Death** as inspiration for my **Wild Code School** homework.
 This small project will evolve as I learn things over the months. First commit was after 5 weeks of lessons.
 
-I've deployed this right here: [Our Flag Means Death S2 reviews](https://florencebuchelet.github.io/OFMDreviews/)
+It looks something like this:
+![screenshot of the project](src/assets/pictures/screenshot.PNG)
 
 ---
 
