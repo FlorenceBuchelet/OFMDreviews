@@ -1,10 +1,10 @@
 # Our Flag Means Death - reviews
 
 Using HBO Max's series **Our Flag Means Death** as inspiration for my **Wild Code School** homework.
-This small project will evolve as I learn things over the months. First commit was after 5 weeks of lessons.
+This project was made after 5 weeks od lessons.
 
 It looks something like this:
-![screenshot of the project](src/assets/pictures/screenshot.PNG)
+![screenshot of the project](/pictures/screenshot.PNG)
 
 ---
 
@@ -16,9 +16,9 @@ I've chosen Styled-components over Emotion after reading their documentation and
 
 1. SASS impressions
 
-- the nested elements are very clear and pleasing to use
-- I don't get yet the appeal of their variables over CSS3 vars
-- I need to get used to @use and @mixin, I can see how useful they are but using them is still a bit challenging
+- The nested elements are very clear and pleasing to use
+- Variables are efficient and clean
+- Mixins are my whole life now ✨
 
 2. Styled-Compnents impressions
 
