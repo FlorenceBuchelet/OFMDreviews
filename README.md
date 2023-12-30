@@ -4,9 +4,8 @@ Using HBO Max's series **Our Flag Means Death** as inspiration for my **Wild Cod
 This project was made after 5 weeks od lessons.
 
 It looks something like this:
-![screenshot of the project](/public/pictures/screenshot.PNG)
 
-https://github.com/FlorenceBuchelet/OFMDreviews/blob/main/public/preview.mkv
+https://github.com/FlorenceBuchelet/OFMDreviews/assets/144147299/aa655861-2b04-460f-ac69-d03fade05b76
 
 ---
 
